@@ -1,0 +1,23 @@
+{
+  "name": "javascript-jquery-node-app",
+  "version": "1.0.0",
+  "description": "Welcome to this git repository. Feel free to fork it at your leisure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xkfngs/javascript-jquery-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xkfngs/javascript-jquery-node-app/issues"
+  },
+  "homepage": "https://github.com/xkfngs/javascript-jquery-node-app#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongodb": "^2.1.10"
+  }
+}

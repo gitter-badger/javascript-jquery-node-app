@@ -1,0 +1,6 @@
+# this ignores the individual module files so
+# that the various node modules don't gunk up
+# the git repo, they can be installed with
+# the command `npm install`
+
+node_modules/
